@@ -1,0 +1,19 @@
+{
+  "name": "sanity-gatsby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonatanPaalsson/sanity-gatsby.git"
+  },
+  "author": "Jonatan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonatanPaalsson/sanity-gatsby/issues"
+  },
+  "homepage": "https://github.com/JonatanPaalsson/sanity-gatsby#readme"
+}
